@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package p2pserver;
+package Main;
 
 /**
  *
  * @author Bennett.DenBleyker
  */
-public class P2PServer {
+public class Main {
 
     /**
      * @param args the command line arguments
